@@ -11,7 +11,9 @@ Full Stack Software Engineer with a background in Business and Finance. Having b
 *   🖥️  See my portfolio at [https://www.ukakit.com/](http://www.ukakit.com/)
 *   ✉️  You can contact me at [ukakit@hotmail.com](mailto:ukakit@hotmail.com)
 *   🧠  I'm learning Django, Python, many more!
-*   ⚡  I'm a F1 enthusiast, in case you can't tell!### Skills<p align="left">
+*   ⚡  I'm a F1 enthusiast, in case you can't tell!
+### Skills
+<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
